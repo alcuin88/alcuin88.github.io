@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.faada201.css",
-    "main.js": "/static/js/main.5c6e6d12.js",
+    "main.css": "/static/css/main.fd8a9929.css",
+    "main.js": "/static/js/main.ab281482.js",
     "static/media/dog-labrador-icon.png": "/static/media/dog-labrador-icon.4c4024f406f2f5870c83.png",
     "index.html": "/index.html",
-    "main.faada201.css.map": "/static/css/main.faada201.css.map",
-    "main.5c6e6d12.js.map": "/static/js/main.5c6e6d12.js.map"
+    "main.fd8a9929.css.map": "/static/css/main.fd8a9929.css.map",
+    "main.ab281482.js.map": "/static/js/main.ab281482.js.map"
   },
   "entrypoints": [
-    "static/css/main.faada201.css",
-    "static/js/main.5c6e6d12.js"
+    "static/css/main.fd8a9929.css",
+    "static/js/main.ab281482.js"
   ]
 }
